@@ -1,4 +1,4 @@
-https://github.com/somogyizsombor007-cloud/astro-platform-starter/tree/main{
+htmlhttps://github.com/somogyizsombor007-cloud/astro-platform-starter/tree/main{
   "name": "therealvest-shop",
   "version": "1.0.0",
   "main": "server.js",
